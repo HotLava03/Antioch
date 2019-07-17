@@ -1,0 +1,10 @@
+name: Antioch
+version: 1.0
+main: io.github.hotlava03.antioch.Main
+authors: [HotLava03]
+commands:
+  antioch:
+    description: Dont use this near your buildings
+permissions:
+  antioch.use:
+    description: Use antioch
